@@ -7,6 +7,10 @@ AI Voice Studio Pro (v1.1.5) — Offline AI Vocal & Voice Workstation
 [![Release](https://shields.io)](https://aivs.pro)
 [![Platform](https://shields.io)](https://aivs.pro)
 
+<p align="center">
+  <img src="https://www.aivs.pro/images/front/RU_EN_00.png" width="100%" alt="AI Voice Studio Pro Main Interface">
+</p>
+
 
 **AI Voice Studio (AiVS)** is a professional, standalone desktop workstation designed for personal vocal training, practice, analysis, and next-generation AI voice modification. 
 
