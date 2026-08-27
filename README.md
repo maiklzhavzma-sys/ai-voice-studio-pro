@@ -40,6 +40,18 @@ To ensure smooth local rendering, your system should meet the following requirem
 
 ---
 
+
+## 📱 Ecosystem: AiVS PRO Remote (iOS)
+
+Take your vocal recordings out of the noisy computer room. **AiVS PRO Remote** turns your iPhone or iPad into a wireless, hardware-style pocket controller and standalone recorder that syncs directly with your desktop studio over Wi-Fi.
+
+* **Zero-Configuration Link:** Automatic desktop discovery within your local Wi-Fi network—no accounts or internet required.
+* **Vocal Booth Isolation:** Record your vocals in a quiet room on your phone, crop the wave, and hit `SEND` to instantly beam the audio straight into the desktop studio's INPUT.
+* **Wireless Touch Control:** Remotely tweak sliders (`Cluster`, `Pitch`, `Threshold`), switch target vocal models, and trigger the heavy AI `CONVERT` process while standing at the microphone.
+* **Safety Lockout:** The mobile interface automatically dims and locks inputs during active neural rendering to protect your session settings from accidental touch.
+
+---
+
 Download & Licensing
 
 AI Voice Studio is a commercial, premium software. You can download the latest production builds directly from our official distribution channels:
