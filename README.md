@@ -8,7 +8,7 @@ AI Voice Studio Pro (v1.1.5) — Offline AI Vocal & Voice Workstation
 [![Platform](https://shields.io)](https://aivs.pro)
 
 <p align="center">
-  <img src="https://www.aivs.pro/images/front/RU_EN_00.png" width="100%" alt="AI Voice Studio Pro Main Interface">
+  <img src="https://www.aivs.pro/images/front/RU_EN_00.png" width="50%" alt="AI Voice Studio Pro Main Interface">
 </p>
 
 
