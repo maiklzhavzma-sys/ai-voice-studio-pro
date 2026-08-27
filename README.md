@@ -43,7 +43,7 @@ To ensure smooth local rendering, your system should meet the following requirem
 
 ## 📱 Ecosystem: AiVS PRO Remote (iOS)
 
-<p align="left">
+<p align="center">
   <img src="https://www.aivs.pro/images/front/EN_05.png" width="35%" alt="AiVS PRO Remote Main Interface">
 </p>
 
