@@ -27,7 +27,7 @@ Key Features in v1.1.5
 * **Real-Time UI Feedback:** Track your AI rendering with a precise "Neural Audio Processing" visual progress bar and countdown timer.
 
 <p align="center">
-  <img src="https://www.aivs.pro/images/front/EN_03.png" width="100%" alt="AI Voice Studio Pro Main Interface">
+  <img src="https://www.aivs.pro/images/front/EN_03.png" width="30%" alt="AI Voice Studio Pro Main Interface">
 </p>
 ---
 
