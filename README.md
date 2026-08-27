@@ -26,6 +26,9 @@ Key Features in v1.1.5
 * **Session Management (.avs):** Save your entire workflow—including model paths, audio sources, and custom presets—into single, native project containers.
 * **Real-Time UI Feedback:** Track your AI rendering with a precise "Neural Audio Processing" visual progress bar and countdown timer.
 
+<p align="center">
+  <img src="https://www.aivs.pro/images/front/EN_03.png" width="100%" alt="AI Voice Studio Pro Main Interface">
+</p>
 ---
 
 System Requirements
