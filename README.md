@@ -43,6 +43,10 @@ To ensure smooth local rendering, your system should meet the following requirem
 
 ## 📱 Ecosystem: AiVS PRO Remote (iOS)
 
+<p align="left">
+  <img src="https://www.aivs.pro/images/front/EN_05.png" width="100%" alt="AiVS PRO Remote Main Interface">
+</p>
+
 Take your vocal recordings out of the noisy computer room. **AiVS PRO Remote** turns your iPhone or iPad into a wireless, hardware-style pocket controller and standalone recorder that syncs directly with your desktop studio over Wi-Fi.
 
 * **Zero-Configuration Link:** Automatic desktop discovery within your local Wi-Fi network—no accounts or internet required.
