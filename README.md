@@ -27,7 +27,7 @@ Key Features in v1.1.5
 * **Real-Time UI Feedback:** Track your AI rendering with a precise "Neural Audio Processing" visual progress bar and countdown timer.
 
 <p align="center">
-  <img src="https://www.aivs.pro/images/front/EN_03.png" width="30%" alt="AI Voice Studio Pro Main Interface">
+  <img src="https://www.aivs.pro/images/front/EN_03.png" width="100%" alt="AI Voice Studio Pro Main Interface">
 </p>
 ---
 
@@ -44,7 +44,7 @@ To ensure smooth local rendering, your system should meet the following requirem
 ## 📱 Ecosystem: AiVS PRO Remote (iOS)
 
 <p align="left">
-  <img src="https://www.aivs.pro/images/front/EN_05.png" width="100%" alt="AiVS PRO Remote Main Interface">
+  <img src="https://www.aivs.pro/images/front/EN_05.png" width="35%" alt="AiVS PRO Remote Main Interface">
 </p>
 
 Take your vocal recordings out of the noisy computer room. **AiVS PRO Remote** turns your iPhone or iPad into a wireless, hardware-style pocket controller and standalone recorder that syncs directly with your desktop studio over Wi-Fi.
