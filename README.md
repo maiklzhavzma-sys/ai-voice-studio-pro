@@ -1,7 +1,7 @@
 # ai-voice-studio-pro
 Professional offline AI vocal &amp; voice workstation. 100% local RVC inference, DAW-style audio transport, and absolute privacy for musicians.
 
-AI Voice Studio Pro (v1.1.5) — Offline AI Vocal & Voice Workstation
+AI Voice Studio (AiVS PRO v1.5.0) — Offline AI Vocal & Voice Workstation
 
 [![Official Website](https://shields.io)](https://aivs.pro)
 [![Release](https://shields.io)](https://aivs.pro)
@@ -18,7 +18,7 @@ Unlike cloud-based services, AI Voice Studio operates **100% locally on your mac
 
 ---
 
-Key Features in v1.1.5
+Key Features in v1.5.0
 
 * **Pure Offline Inference:** Run heavy AI voice processing models locally via an isolated environment without any internet dependency.
 * **DAW-Style Workflow:** Enjoy features built for musicians, including seamless audio transport, custom region selections, and instant rendering.
