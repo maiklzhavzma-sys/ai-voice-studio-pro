@@ -60,9 +60,9 @@ Download & Licensing
 
 AI Voice Studio is a commercial, premium software. You can download the latest production builds directly from our official distribution channels:
 
-[Download AI Voice Studio Pro v1.5.0 on aivs.pro]([https://aivs.pro](https://www.aivs.pro/#aivs-download))
+[Download AI Voice Studio Pro v1.5.0 on aivs.pro](https://www.aivs.pro/#aivs-download)
 
-[Download AiVS PRO  Remote v1 on AppStore]([https://aivs.pro](https://apps.apple.com/app/aivs-pro-remote/id6804775782))
+[Download AiVS PRO  Remote v1 on AppStore](https://apps.apple.com/app/aivs-pro-remote/id6804775782)
 
 Available Plans:
 * **RENT PRO:** Perfect for short-term projects and track-by-track rendering.
